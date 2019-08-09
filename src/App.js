@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Waiter from "./components/Waiter";
+import Waiter from "./components/Waiter/Waiter";
 
 function App() {
   return (
